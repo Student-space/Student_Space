@@ -1,0 +1,7 @@
+{
+  "mongoURI":"mongodb+srv://db:db@cluster0.8ytql.mongodb.net/test",
+  "Hello World":"mongodb+srv://db:db@cluster0.qftvo.mongodb.net",
+  "jwtSecret":"secrettoken",
+  "githubClientId":"b3bd39b73264dcdfcea7",
+  "githubClientSecret":"22dd7f5095e432517682f6dfe65b18ba68a079a5"
+}
